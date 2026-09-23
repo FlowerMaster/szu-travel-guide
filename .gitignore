@@ -1,0 +1,16 @@
+node_modules/
+/dist/
+/.playwright-cli/
+/output/playwright/
+/research/
+/public/assets/food/research/
+/public/assets/map/szu-yuehai-canghai-map-highres.png
+/public/assets/map/szu-yuehai-canghai-map.png
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+.wrangler/
+.DS_Store

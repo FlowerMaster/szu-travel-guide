@@ -1,0 +1,443 @@
+[
+  {
+    "index": 1,
+    "name": "校区航拍",
+    "sceneId": 72926486,
+    "panoId": 41475817,
+    "cdn": 134,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41164608/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926486.jpg"
+  },
+  {
+    "index": 2,
+    "name": "南区航拍",
+    "sceneId": 72926488,
+    "panoId": 41475819,
+    "cdn": 136,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41164561/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926488.jpg"
+  },
+  {
+    "index": 3,
+    "name": "立德门（正门）",
+    "sceneId": 72926467,
+    "panoId": 41475798,
+    "cdn": 131,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153975/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926467.jpg"
+  },
+  {
+    "index": 4,
+    "name": "立德门（正门）2",
+    "sceneId": 72926491,
+    "panoId": 41475822,
+    "cdn": 132,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153976/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926491.jpg"
+  },
+  {
+    "index": 5,
+    "name": "立德门入门处",
+    "sceneId": 73161516,
+    "panoId": 41595963,
+    "cdn": 131,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595963/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161516.jpg"
+  },
+  {
+    "index": 6,
+    "name": "时光广场",
+    "sceneId": 72926489,
+    "panoId": 41475820,
+    "cdn": 135,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153979/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926489.jpg"
+  },
+  {
+    "index": 7,
+    "name": "演会中心",
+    "sceneId": 72926492,
+    "panoId": 41475823,
+    "cdn": 134,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153990/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926492.jpg"
+  },
+  {
+    "index": 8,
+    "name": "天人广场",
+    "sceneId": 72926479,
+    "panoId": 41475810,
+    "cdn": 136,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153980/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926479.jpg"
+  },
+  {
+    "index": 9,
+    "name": "图书馆南馆（汇智楼）",
+    "sceneId": 73161513,
+    "panoId": 41595961,
+    "cdn": 135,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595961/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161513.jpg"
+  },
+  {
+    "index": 10,
+    "name": "上文山湖",
+    "sceneId": 72926474,
+    "panoId": 41475805,
+    "cdn": 134,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153978/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926474.jpg"
+  },
+  {
+    "index": 11,
+    "name": "下文山湖",
+    "sceneId": 72926475,
+    "panoId": 41475806,
+    "cdn": 134,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153984/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926475.jpg"
+  },
+  {
+    "index": 12,
+    "name": "档案馆",
+    "sceneId": 72926490,
+    "panoId": 41475821,
+    "cdn": 131,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153969/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926490.jpg"
+  },
+  {
+    "index": 13,
+    "name": "汇星楼（科技楼）",
+    "sceneId": 72926487,
+    "panoId": 41475818,
+    "cdn": 133,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153977/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926487.jpg"
+  },
+  {
+    "index": 14,
+    "name": "汇星楼天台",
+    "sceneId": 72926470,
+    "panoId": 41475801,
+    "cdn": 134,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153972/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926470.jpg"
+  },
+  {
+    "index": 15,
+    "name": "荔枝林",
+    "sceneId": 73161506,
+    "panoId": 41595960,
+    "cdn": 134,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595960/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161506.jpg"
+  },
+  {
+    "index": 16,
+    "name": "汇文楼（文科楼）",
+    "sceneId": 72926469,
+    "panoId": 41475800,
+    "cdn": 133,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153971/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926469.jpg"
+  },
+  {
+    "index": 17,
+    "name": "汇德楼",
+    "sceneId": 72926493,
+    "panoId": 41475824,
+    "cdn": 132,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153970/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926493.jpg"
+  },
+  {
+    "index": 18,
+    "name": "校友广场",
+    "sceneId": 72926481,
+    "panoId": 41475812,
+    "cdn": 136,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153986/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926481.jpg"
+  },
+  {
+    "index": 19,
+    "name": "校友广场2",
+    "sceneId": 72926471,
+    "panoId": 41475802,
+    "cdn": 131,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153987/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926471.jpg"
+  },
+  {
+    "index": 20,
+    "name": "听荔餐厅",
+    "sceneId": 72926497,
+    "panoId": 41475828,
+    "cdn": 132,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153982/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926497.jpg"
+  },
+  {
+    "index": 21,
+    "name": "友谊林",
+    "sceneId": 73161515,
+    "panoId": 41595964,
+    "cdn": 132,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595964/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161515.jpg"
+  },
+  {
+    "index": 22,
+    "name": "粤海校区书院活动室",
+    "sceneId": 73161509,
+    "panoId": 41595956,
+    "cdn": 136,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595956/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161509.jpg"
+  },
+  {
+    "index": 23,
+    "name": "粤海校区书院活动室2",
+    "sceneId": 73161510,
+    "panoId": 41595957,
+    "cdn": 131,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595957/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161510.jpg"
+  },
+  {
+    "index": 24,
+    "name": "荔天餐厅",
+    "sceneId": 73161512,
+    "panoId": 41595959,
+    "cdn": 133,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595959/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161512.jpg"
+  },
+  {
+    "index": 25,
+    "name": "荔天餐厅2",
+    "sceneId": 73161511,
+    "panoId": 41595958,
+    "cdn": 132,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595958/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161511.jpg"
+  },
+  {
+    "index": 26,
+    "name": "斋区学生宿舍",
+    "sceneId": 72926468,
+    "panoId": 41475799,
+    "cdn": 136,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153992/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926468.jpg"
+  },
+  {
+    "index": 27,
+    "name": "斋区学生宿舍内景",
+    "sceneId": 73161508,
+    "panoId": 41595955,
+    "cdn": 135,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595955/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161508.jpg"
+  },
+  {
+    "index": 28,
+    "name": "西南区学生宿舍",
+    "sceneId": 73161514,
+    "panoId": 41595962,
+    "cdn": 136,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595962/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161514.jpg"
+  },
+  {
+    "index": 29,
+    "name": "西南区学生宿舍内景",
+    "sceneId": 73161505,
+    "panoId": 41595966,
+    "cdn": 134,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595966/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161505.jpg"
+  },
+  {
+    "index": 30,
+    "name": "三号艺栈&凯风餐厅",
+    "sceneId": 72926496,
+    "panoId": 41475827,
+    "cdn": 135,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153985/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926496.jpg"
+  },
+  {
+    "index": 31,
+    "name": "立功门（北门）",
+    "sceneId": 73161504,
+    "panoId": 41599048,
+    "cdn": 135,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41599048/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161504.jpg"
+  },
+  {
+    "index": 32,
+    "name": "星空广场",
+    "sceneId": 72926495,
+    "panoId": 41475826,
+    "cdn": 132,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153988/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926495.jpg"
+  },
+  {
+    "index": 33,
+    "name": "高尔夫球练习场",
+    "sceneId": 72926477,
+    "panoId": 41475808,
+    "cdn": 136,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41154395/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926477.jpg"
+  },
+  {
+    "index": 34,
+    "name": "田径运动场",
+    "sceneId": 72926482,
+    "panoId": 41475813,
+    "cdn": 131,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153981/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926482.jpg"
+  },
+  {
+    "index": 35,
+    "name": "足球场&网球场",
+    "sceneId": 72926480,
+    "panoId": 41475811,
+    "cdn": 131,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153993/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926480.jpg"
+  },
+  {
+    "index": 36,
+    "name": "游泳馆",
+    "sceneId": 72926484,
+    "panoId": 41475815,
+    "cdn": 135,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153991/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926484.jpg"
+  },
+  {
+    "index": 37,
+    "name": "有氧健身房",
+    "sceneId": 73161507,
+    "panoId": 41595965,
+    "cdn": 133,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41595965/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161507.jpg"
+  },
+  {
+    "index": 38,
+    "name": "无氧健身房",
+    "sceneId": 72926478,
+    "panoId": 41475809,
+    "cdn": 136,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153974/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926478.jpg"
+  },
+  {
+    "index": 39,
+    "name": "保龄球馆",
+    "sceneId": 72926485,
+    "panoId": 41475816,
+    "cdn": 136,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153968/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926485.jpg"
+  },
+  {
+    "index": 40,
+    "name": "击剑馆",
+    "sceneId": 72926476,
+    "panoId": 41475807,
+    "cdn": 135,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153973/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926476.jpg"
+  },
+  {
+    "index": 41,
+    "name": "桑田广场",
+    "sceneId": 72926498,
+    "panoId": 41475829,
+    "cdn": 132,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153944/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926498.jpg"
+  },
+  {
+    "index": 42,
+    "name": "致艺楼",
+    "sceneId": 73161517,
+    "panoId": 41599084,
+    "cdn": 135,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41599084/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161517.jpg"
+  },
+  {
+    "index": 43,
+    "name": "致信楼",
+    "sceneId": 73161518,
+    "panoId": 41599083,
+    "cdn": 134,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41599083/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161518.jpg"
+  },
+  {
+    "index": 44,
+    "name": "致腾楼",
+    "sceneId": 72926494,
+    "panoId": 41475825,
+    "cdn": 134,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153946/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926494.jpg"
+  },
+  {
+    "index": 45,
+    "name": "致理楼",
+    "sceneId": 72926499,
+    "panoId": 41475830,
+    "cdn": 131,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153943/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926499.jpg"
+  },
+  {
+    "index": 46,
+    "name": "南区餐厅",
+    "sceneId": 73161521,
+    "panoId": 41599080,
+    "cdn": 131,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41599080/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161521.jpg"
+  },
+  {
+    "index": 47,
+    "name": "南区学生宿舍远景",
+    "sceneId": 72926483,
+    "panoId": 41475814,
+    "cdn": 133,
+    "thumb": "/resource/prod/171i1da9a82/d7b29wruacv/41153945/imgs/thumb.jpg",
+    "image": "/assets/places/scene-72926483.jpg"
+  },
+  {
+    "index": 48,
+    "name": "南区学生宿舍近景",
+    "sceneId": 73161519,
+    "panoId": 41599082,
+    "cdn": 133,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41599082/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161519.jpg"
+  },
+  {
+    "index": 49,
+    "name": "南区学生宿舍楼下",
+    "sceneId": 73161520,
+    "panoId": 41599081,
+    "cdn": 132,
+    "thumb": "/resource/prod/6d13bc4fs0d/fcejOr4kkO2/41599081/imgs/thumb.jpg",
+    "image": "/assets/places/scene-73161520.jpg"
+  }
+]
