@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light;
   font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
   color: #211c24;
   background: #f7f4ef;
@@ -19,26 +20,6 @@
   --shadow: 0 20px 55px rgba(54, 33, 60, 0.1);
   --radius-card: 20px;
   --radius-map: 28px;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    color: #f6f0f7;
-    background: #171219;
-    --bg: #171219;
-    --surface: #231b26;
-    --surface-soft: #2d222f;
-    --surface-deep: #3c2c40;
-    --text: #f6f0f7;
-    --muted: #c0b3c2;
-    --faint: #8e818f;
-    --line: #4b3b4e;
-    --accent: #c69ad3;
-    --accent-soft: #3b2d3f;
-    --accent-dark: #ead5ef;
-    --warning: #e3a877;
-    --shadow: 0 20px 55px rgba(0, 0, 0, 0.28);
-  }
 }
 
 * { box-sizing: border-box; }
@@ -334,7 +315,38 @@ a { color: inherit; }
   .map-toolbar { align-items: start; }
   .map-status { max-width: 170px; line-height: 1.4; }
   .map-viewport { width: 100%; touch-action: pan-y; }
-  .map-marker { width: 36px; height: 36px; }
+  .map-marker {
+    display: grid;
+    width: 24px;
+    height: 24px;
+    place-items: center;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  .map-marker span {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    background: rgba(33, 28, 36, .72);
+    box-shadow: 0 2px 7px rgba(29, 18, 31, .28);
+    font-size: 8px;
+  }
+  .map-marker.route-marker { background: transparent; }
+  .map-marker.route-marker span { background: var(--accent); }
+  .map-marker.selected, .map-marker:hover, .map-marker:focus-visible {
+    transform: translate(-50%, -50%);
+    background: transparent;
+    box-shadow: none;
+  }
+  .map-marker.selected span, .map-marker:focus-visible span {
+    transform: scale(1.1);
+    background: var(--accent-dark);
+    box-shadow: 0 0 0 3px rgba(74, 39, 90, .18), 0 3px 8px rgba(29, 18, 31, .25);
+  }
+  .map-marker .marker-label { display: none; top: 26px; max-width: 120px; padding: 3px 5px; font-size: 9px; }
+  .map-marker.selected .marker-label, .map-marker:focus-visible .marker-label { display: block; }
   .clear-map-entry { align-items: stretch; flex-direction: column; gap: 14px; padding: 18px; }
   .clear-map-header { flex-wrap: wrap; gap: 4px 12px; padding: 8px 14px; }
   .clear-map-header > div:nth-child(2) { order: 3; flex-basis: 100%; padding-bottom: 4px; }
