@@ -8,7 +8,7 @@ export async function onRequest(context) {
   const url = new URL(request.url);
 
   if (url.pathname === UNLOCK_PATH && request.method === "POST") {
-    return handleUnlock(request, env, url);
+    return handleUnlock(request, env);
   }
 
   if (await hasValidSession(request, env)) {
@@ -26,11 +26,7 @@ export async function onRequest(context) {
   return gatePage("", safeNext(`${url.pathname}${url.search}`), 401);
 }
 
-async function handleUnlock(request, env, requestUrl) {
-  if (request.headers.get("Origin") !== requestUrl.origin) {
-    return gatePage("", "/", 403);
-  }
-
+async function handleUnlock(request, env) {
   if (!env.ACCESS_CODE || !env.SESSION_SECRET) {
     return gatePage("unavailable", "/", 503);
   }
@@ -184,7 +180,7 @@ function gatePage(state, next, status) {
       <form action="${UNLOCK_PATH}" method="post">
         <input type="hidden" name="next" value="${safeNextValue}">
         <label for="access-code">访问码</label>
-        <input id="access-code" name="access-code" type="password" autocomplete="current-password" autocapitalize="characters" spellcheck="false" maxlength="64" required aria-describedby="${describedBy}" autofocus>
+        <input id="access-code" name="access-code" type="text" autocomplete="off" autocapitalize="characters" autocorrect="off" spellcheck="false" maxlength="64" required aria-describedby="${describedBy}" autofocus>
         <button type="submit">进入攻略</button>
       </form>
     </main>
